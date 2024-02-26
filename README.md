@@ -18,6 +18,7 @@ Designed to be both engaging and challenging, this game tests players' strategic
 
 # YouTube Video Link : https://youtu.be/uY_n67JJjto
 
+#Snapshots :
 <img width="599" alt="image" src="https://github.com/Jenishkumarbhalala/GemHunters/assets/142840309/c9372e1b-a966-4d85-9b5b-5bbd6e7aee70">
 <img width="597" alt="image" src="https://github.com/Jenishkumarbhalala/GemHunters/assets/142840309/faba70cd-572a-4a4d-9e16-f50e10b9b40e">
 <img width="598" alt="image" src="https://github.com/Jenishkumarbhalala/GemHunters/assets/142840309/a6215a5e-76d9-442f-a7c2-48c89fcf3bd5">
