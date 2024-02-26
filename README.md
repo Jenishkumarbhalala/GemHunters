@@ -16,4 +16,4 @@ This C# project features a competitive two-player board game set on a 6x6 grid w
 
 Designed to be both engaging and challenging, this game tests players' strategic thinking and planning abilities. It's a perfect quick-play game for friends and family, offering a competitive and fun experience with each playthrough.
 
-# YouTube Link : https://youtu.be/uY_n67JJjto
+# YouTube Video Link : https://youtu.be/uY_n67JJjto
